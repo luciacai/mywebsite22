@@ -1,0 +1,17 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r hugo}
+library(blogdown)
+hugo_version()
+```
+
+```{r template}
+ blogdown::new_site(theme = "MarcusVirg/forty", 
+      sample = TRUE, 
+      theme_example = TRUE,            
+      empty_dirs = TRUE,            
+      to_yaml = TRUE)
+```
