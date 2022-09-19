@@ -37,7 +37,7 @@ params:
   footer:
     #copyright: Company Name
     #enable: yes
-    #quicklinks:
+    quicklinks:
       - alt: HTML5 UP
         text: 'Design: '
         url: https://www.html5up.net
@@ -84,7 +84,7 @@ params:
       - image: lbs.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Aliquam
-        url: blogs/aliquam
+        url: blogs/risk_return
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
