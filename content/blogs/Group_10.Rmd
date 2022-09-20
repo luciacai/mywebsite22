@@ -1,5 +1,5 @@
 ---
-title: "Session 2: Homework 1"
+title: "Analysis of Rent in San Francsisco"
 author: "Group 10"
 date: "`r Sys.Date()`"
 output:
@@ -16,7 +16,7 @@ categories:
 - ""
 description: Project 1 # the title that will show up once someone gets to this page
 draft: false
-image: pic09.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: picc.jpeg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
 slug: hw1 # slug is the shorthand URL address... no spaces plz
