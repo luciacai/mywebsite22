@@ -14,4 +14,4 @@ title: About me
 
 • Optimistic, well-organized and detail-oriented person, who enjoys working in a fast-paced and team-oriented environment;
 
-• Actively looking for opportunities in the consulting and PE/VC field"
+• Actively looking for opportunities in the consulting and PE/VC field
