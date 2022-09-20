@@ -81,35 +81,33 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
-        subtitle: University of Minnesota
-        title: Undergraduate Graduation
+      - image: lbss.JPG
+        subtitle: Who am I
+        title: About me
         url: blogs/ipsum
       - image: pic02.jpg
-        subtitle: Multivariate Analysis of NBA Players’ Performance
-        title: Undergrad Capstone Project
-        url: blogs/nba
+        subtitle: To know more about me
+        title: Fun facts
+        url: blogs/tempus
       - image: pic03.jpg
-        subtitle: Homework1
-        title: Project 1
+        subtitle: Analysis of Rent in San Francsisco
+        title: Data Analytics Project 1
         url: blogs/hw1
       - image: pic04.jpg
-        subtitle: Homework 2
-        title: Project 2
+        subtitle: Analysis of Climate change and temperature anomalies
+        title: Data Analytics Project 2
         url: blogs/hw2
       - image: pic05.jpg
-        subtitle: Homework 3
-        title: Project 3
-        url: blogs/hw3
+        subtitle: My resume
+        title: My CV
+        url: blogs/CV.pdf
       - image: pic06.jpg
-        subtitle: Other fun facts
-        title: My Life
-        url: blogs/ipsum
+        subtitle: M.P Evans
+        title: M&A Case Study
+        url: blogs/LBS synergy.pdf
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Master in Analytics and Management at the London Business School; 
-    Optimistic, well-organized and detail-oriented person, who enjoys working in a fast-paced and team-oriented environment;
-Actively looking for opportunities in the consulting and PE/VC field"
+    subtitle: 
     title: Lucia Cai
     url: blogs

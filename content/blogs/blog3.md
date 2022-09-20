@@ -2,14 +2,21 @@
 categories:
 - ""
 - ""
-date: "2017-10-31T22:26:13-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+date: "2017-10-31T22:26:09-05:00"
+description: To know more about me
 draft: false
 image: pic08.jpg
 keywords: ""
 slug: tempus
-title: Tempus
+title: Fun facts
 ---
+
+• A sports lover, especially enjoy snowboarding and badminton
+
+• In fact I'm the second level athletic (in swim) in China
+
+• I once sailed alone on a sailboat
+
+• Coffee addict
+
+• Love suspenseful movie
